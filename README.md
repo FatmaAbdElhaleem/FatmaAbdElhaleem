@@ -1,4 +1,3 @@
- <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
   Hello👋 My Name is Fatma ,Welcome To My Github Profile ♥
