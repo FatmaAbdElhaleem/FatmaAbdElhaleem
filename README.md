@@ -10,11 +10,11 @@
 </p>
 
 - 🏢 I'm a Software Engineer
-- 👨‍💻 skills: JavaScript, HTML, and CSS, or anything related to web development.
+- 👨‍💻 skills:  HTML, CSS, JavaScript, and Angular
 
 ### Connect with Me :
 
-<a href=" https://www.linkedin.com/in/fatmaabdelhaleem/" target="_blank"><img src="https://img.shields.io/badge/-Fatma%20Abdelhaleem-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href=" https://www.linkedin.com/in/fatmaabdelhaleem" target="_blank"><img src="https://img.shields.io/badge/-Fatma%20Abdelhaleem-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 
