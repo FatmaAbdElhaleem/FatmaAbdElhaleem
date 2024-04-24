@@ -1,6 +1,6 @@
 
 <h3 align="center">
-  Hello👋 My Name is Fatma ,Welcome To My Github Profile ♥
+  Hello👋 My Name is Fatma ,Welcome To My Github Profile 
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
