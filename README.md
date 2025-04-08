@@ -24,4 +24,4 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-Github-05122A?style=flat&logo=Github)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
-
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
