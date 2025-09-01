@@ -1,23 +1,28 @@
 
 <h3 align="center">
-  Hi👋 I'm Fatma Abdelhaleem, Welcome To My Github Profile 
+   Hi👋, I'm Fatma. Welcome to my GitHub Profile
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20developer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Front-end%20developer;"></a>
 </p>
+<br>
 
  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=FatmaAbdElhaleem&show_icons=true&locale=en&layout=compact" alt="FatmaAbdElhaleem" /></p>
  
 - 🏢 I'm a Software Engineer
 - 👨‍💻 skills:  HTML, CSS, Bootstrap, JavaScript, React and Angular
 
+<br>
+
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/fatmaabdelhaleem" target="_blank"><img src="https://img.shields.io/badge/-Fatma%20Abdelhaleem-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 ![Profile views](https://komarev.com/ghpvc/?username=FatmaAbdElhaleem&color=blue&style=flat)
 
+
+<br>
 
 ### 🛠 &nbsp;Languages and Tools: 
 
