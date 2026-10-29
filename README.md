@@ -11,7 +11,7 @@
  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=FatmaAbdElhaleem&show_icons=true&locale=en&layout=compact" alt="FatmaAbdElhaleem" /></p>
  
 - 🏢 I'm a Software Engineer
-- 👨‍💻 skills:  HTML, CSS, Bootstrap, JavaScript, React and Angular
+- 👨‍💻 skills: C++, C#, Databases, ..
 
 <br>
 
